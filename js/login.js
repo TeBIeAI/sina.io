@@ -1,6 +1,6 @@
 /**
  * Created by 韩超 on 2017/8/25.
  */
-function a() {
+function a(a) {
 
 }
